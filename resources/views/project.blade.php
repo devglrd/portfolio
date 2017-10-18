@@ -22,7 +22,7 @@
             Projets
         </h1>
         <h2>
-            <strong>La page profil</strong>
+            <strong></strong>
         </h2>
         <p class="welcome__info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at cum distinctio molestias natus numquam repellat suscipit veniam. Amet architecto aut deleniti eligendi error iusto! Fugit nesciunt officia quae quaerat?</p>
     </div>
