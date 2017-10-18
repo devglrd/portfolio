@@ -18,7 +18,9 @@
 
     <body>
     <div id="Remi-Guillard">
-    @yield('content')
+        <div id="app">
+            @yield('content')
+        </div>
     </div>
     <div class="page">
         <div class="welcome_nav">

@@ -18,6 +18,9 @@ $(document).ready(function () {
 });
 
 function afficher(data){
-    $("#Remi-Guillard").empty();
-    $("#Remi-Guillard").append(data)
+    $("#app").fadeOut(250, function () {
+        $("#app").empty();
+        $("#app").append(data);
+        $("#app").fadeIn(250);
+    });
 }
