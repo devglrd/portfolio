@@ -23,7 +23,7 @@
             Rémi Guillard
         </h1>
         <h2>
-            <strong>Back-End</strong> Developer
+            <strong>SUper Back-End</strong> Developer
         </h2>
         <p class="welcome__info">A nul sacrifice nul victoire.</p>
 
