@@ -28,7 +28,7 @@
                     <h2>
                         <strong style="font-weight: 400 !important">Back-End</strong> Developer
                     </h2>
-                    <p class="welcome__info">A nul sacrifice nul victoire.</p>
+                    <p class="welcome__info">A nul sacrifice nulle victoire.</p>
 
                 </div>
             </div>
