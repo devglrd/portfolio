@@ -24,7 +24,7 @@
     </div>
     <div class="page">
         <div class="welcome_nav">
-            <a href="{{ route('home') }}" class="button button--primary welcome__button">Acceuil</a>
+            <a href="{{ route('home') }}" class="button button--primary welcome__button">Accueil</a>
             <a href="{{ route('profil') }}" class="button button--primary welcome__button">En savoir plus sur moi</a>
             <a href="{{ route('project') }}" class="button button--primary welcome__button">Mes projets</a>
             <!--<a href="{{ asset('img/cv.png') }}" class="button button--primary welcome__button" target="_blank">Mon CV</a>-->
