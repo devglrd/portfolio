@@ -36,4 +36,12 @@
     <script src="{{ asset('js/jis.js') }}"></script>
     <script src="{{ asset('js/turbo.js') }}"></script>
     <script src="{{ asset('js/main.js') }}"></script>
+    <script>
+        document = document.getElementById("#tonelementoutuveuxcliquer");
+        var a = 0;
+        document.addEventListener("click").function(){
+            a = ++;
+            console.log(a)
+        }
+    </script>
 </html>
