@@ -20,7 +20,7 @@
 
     <div class="welcome">
         <h1 class="welcome__heading">
-            Rémi Guillard
+            Rémi Guillardeux
         </h1>
         <h2>
             <strong style="font-weight: 400 !important">Back-End</strong> Developer
