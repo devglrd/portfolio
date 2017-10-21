@@ -1,0 +1,33 @@
+
+/*** 
+
+====================================================================
+	Main color
+====================================================================
+
+ ***/
+
+
+
+.blog-style-two .inner-box:hover .content-box .date,
+.testimonials-style-two .testimonial-item .author-thumb img,
+.pricing-table .pricing-table-header,
+.subscribe-newsletter form input[type="text"],
+.main-footer .newsletter-widget input:focus,
+.main-footer .newsletter-widget select:focus
+{
+	border-color: #270d29 !important
+}
+
+.has-gradient {
+    background-image: -webkit-linear-gradient(to right, #270d29, #94969e);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(to right), color-stop(#270d29), to(#94969e));
+    background-image: linear-gradient(to right, #270d29, #94969e);
+    color: #fff
+}
+
+
+nav.main-navigation .navbar-nav .btn:hover {
+    background: transparent !important;
+    color: #333;
+}

@@ -22,4 +22,7 @@ class PageController extends Controller
         $route_current_project = "";
         return view("project", compact('route_current_project'));
     }
+    public function shape(){
+        return view('shape');
+    }
 }
