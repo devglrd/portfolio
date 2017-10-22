@@ -436,6 +436,17 @@ h2.has-line-center .heading-bg-text {
     border: 2px solid #ccc;
 }
 
+.next-section-first{
+    transform: translateY(-50%) rotate(270deg);
+}
+.next-section-first i{
+    position: relative;
+    right: 10px;
+    -webkit-animation: icon .7s ease-in-out infinite ;
+    -o-animation: icon .7s ease-in-out infinite ;
+    animation: icon .7s ease-in-out infinite ;
+}
+
 .next-section{
     position: absolute;
     right: 0px;

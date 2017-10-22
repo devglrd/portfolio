@@ -42,7 +42,7 @@ $(document).ready(function () {
     var element = $(".element");
     $(function() {
       element.typed({
-        strings: ["un développeur Web.", "un entrepreneur.", "moi." ],
+        strings: ["un développeur Web / Mobile.", "un entrepreneur.", "moi." ],
         typeSpeed: 100,
         loop: false
       });
@@ -68,7 +68,7 @@ $(document).ready(function () {
     //Fact Counter + Text Count
     $('.counter').counterUp({
         delay: 10,
-        time: 3000
+        time: 1000
     });
 
     
@@ -77,8 +77,8 @@ $(document).ready(function () {
         dots: false,
         infinite: true,
         autoplay: false,
-        prevArrow: '<button type="button" class="slick-prev"> << </button>',
-        nextArrow: '<button type="button" class="slick-next"> >> </button>',
+        prevArrow: '<!--<button type="button" class="slick-prev"> << </button>-->',
+        nextArrow: '<!--<button type="button" class="slick-next"> >> </button>-->',
         arrows: true,
         autoplaySpeed: 2000,
         slidesToShow: 2,
