@@ -1,39 +1,6 @@
 
-/************ TABLE OF CONTENTS ***************
-1. Fonts
-2. Reset
-3. Global
-4. Nav
-5. Header
-6. About Me
-7. Services
-8. Skills
-9. Facts
-10. Portfolio
-11. Features
-12. teams
-13. Interests
-14. Contact
-15. Footer
-**********************************************/
-
-/*** 
-
-====================================================================
-    Fonts
-====================================================================
-
- ***/
 @import url("https://fonts.googleapis.com/css?family=Montserrat:200,700,800%7CPoppins:300,400,600,700");
 
-
-/*** 
-
-====================================================================
-    Reset
-====================================================================
-
- ***/
 * {
     margin:0px;
     padding:0px;
@@ -41,13 +8,6 @@
     outline:none;
 }
 
-/*** 
-
-====================================================================
-    Global Settings
-====================================================================
-
- ***/
 a,
 a:focus,
 a:hover,
@@ -500,13 +460,6 @@ h2.has-line-center .heading-bg-text {
     transform: rotate(300deg);
 }
 
-/*** 
-
-====================================================================
-    Nav
-====================================================================
-
- ***/
 nav.main-navigation { 
     background: #fff; 
     border-color: #ccc; 
@@ -567,13 +520,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 }
 
 
-/*** 
-
-====================================================================
-    Header
-====================================================================
-
- ***/
 .header-1{
     height: 100vh;
     position: relative;
@@ -742,13 +688,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 
 
 
-/*** 
-
-====================================================================
-    About me
-====================================================================
-
- ***/
 .about-me{
     position: relative;
 }
@@ -808,16 +747,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 }
 
 
-
-
-/*** 
-
-====================================================================
-    Services
-====================================================================
-
- ***/
-/* service one section */
 .services .left-crown{
     left: inherit;
     right: -8.2%
@@ -878,14 +807,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     -o-transition: all 300ms ease;
 }
 
-
-/*** 
-
-====================================================================
-    skills
-====================================================================
-
- ***/
 .skills h3{
     font-weight: 600;
     font-size: 20px;
@@ -923,14 +844,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     }
 }
 
-
-/*** 
-
-====================================================================
-    Facts
-====================================================================
-
- ***/
 .facts .left-crown{
     left: inherit;
     right: -6.7%
@@ -1018,15 +931,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     }
 }
 
-
-
-/*** 
-
-====================================================================
-    Portfolio
-====================================================================
-
- ***/
 .portfolio .gallery {
    position: relative;
 }
@@ -1103,7 +1007,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2)
 }
 
-/*item image */
 .portfolio .gallery .mix .item img {
    width: 100%;
    position: absolute;
@@ -1112,7 +1015,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
    filter: grayscale(1);
 }
 
-/*item information */
+
 .portfolio .gallery .mix .item .info {
    background: rgba(46, 46, 52, 0.9);
    width: 100%;
@@ -1144,14 +1047,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
    opacity: 0;
 }
 
-
-/*** 
-
-====================================================================
-    Features
-====================================================================
-
- ***/
 .features .left-crown{
     left: inherit;
     right: -8.4%
@@ -1159,15 +1054,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 .features .next-section{
     right: inherit;
 }
-
-
-/*** 
-
-====================================================================
-    teams
-====================================================================
-
- ***/
 .teams .left-crown{
     left: -10%;
 }
@@ -1255,14 +1141,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     }
 }
 
-
-/*** 
-
-====================================================================
-    Interests
-====================================================================
-
- ***/
 .interest .left-crown{
     left: inherit;
     right: -4.8%
@@ -1370,13 +1248,6 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 }
 
 
-/*** 
-
-====================================================================
-    Footer
-====================================================================
-
- ***/
 .main-footer {
     position: relative;
     background: #1c1c1c;
