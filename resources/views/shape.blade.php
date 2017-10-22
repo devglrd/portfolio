@@ -281,7 +281,7 @@
         		<h2 class="has-square">Fait réels</h2>
         	</div>
         	<div class="next-section">
-        		<a href="#portfolio" class="next-section-link js-scroll-trigger"><i class="fa fa-long-arrow-left"></i>un projet pour moi</a>
+        		<a href="#portfolio" class="next-section-link js-scroll-trigger"><i class="fa fa-long-arrow-left"></i>Mon équipe</a>
         	</div>
 			<div class="container">
 			 	<div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
@@ -337,7 +337,7 @@
         		<h2 class="has-square">Mon équipe</h2>
         	</div>
         	<div class="next-section">
-        		<a href="#interest" class="next-section-link js-scroll-trigger"><i class="fa fa-long-arrow-left"></i> Mes passions</a>
+        		<a href="#interest" class="next-section-link js-scroll-trigger"><i class="fa fa-long-arrow-left"></i> Un projet pour moi</a>
         	</div>
             <div class="container text-center">
              <div class="carousel-outer col-sm-10 col-sm-offset-1">
