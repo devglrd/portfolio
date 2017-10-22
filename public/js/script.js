@@ -106,5 +106,22 @@ $(document).ready(function () {
             $('.filter').filter('.' + value).show('3000');  
         }
     });
-    
+
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
+
 });
+
+function rotate() {
+
+    var fig = document.getElementById('style_svg');
+        fig.style.transform = "rotate(280deg)";
+
+
+
+}
+function rotateOut() {
+    var fig = document.getElementById('style_svg');
+    fig.style.transform = "rotate(0deg)";
+}

@@ -71,14 +71,24 @@
         <!--<div class="moving-bg"></div>-->
           <div class="container">
             
-            <div class="header-2-content">
+            <div class="header-2-content" style="position: relative">
               <div class="col-md-7 col-sm-12">
                 <h1 class="has-line-center">Rémi Guillard</h1>
                 <h3 class="mb-20">Je suis <span class="element"></span></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum adipisci eum, repellendus soluta. Molestias, dolore, neque totam quisquam, inventore officiis magni provident ducimus quos unde eaque veritatis. Magni, nihil, sequi!nderit quod quisquam.</p>
+				  <p>J'ai cacher des informations sur moi un peu <strong>partout</strong> sur le site. A vous de les <strong>decouvrires</strong>.</p>
 				  <div class="next-section-first">
 					  <a class="js-scroll-trigger next-section-link" href="#about"><i class="fa fa-long-arrow-left"></i></a>
 				  </div>
+				  <svg xmlns="http://www.w3.org/2000/svg" id="style_svg" onmouseover="rotate()" onmouseout="rotateOut()" viewBox="0 0 179.41 179.17" class="style_svg" data-toggle="tooltip" data-placement="top" title="Bravo tu m'as trouvé ! Je vais te livré un secret. J'ai effectué ma premiere requetes SQL a l'age de 11 ans.">
+					  <defs>
+						  <style>.cls-1{fill:none;stroke:#170c3e;stroke-miterlimit:10;}</style>
+					  </defs>
+					  <g id="Calque_2" data-name="Calque 2">
+						  <g id="Calque_2-2" data-name="Calque 2">
+							  <path class="cls-1" d="M77.9,5.82A25.08,25.08,0,0,1,88.11.72C93.79-.42,99.46,3.18,100.6,4.31s20.23,20,20.23,20l54.65,55.41s3.78,5.67,3.4,10a21,21,0,0,1-5.86,13c-3.78,3.78-74.5,73.56-74.5,73.56a82.3,82.3,0,0,1-8.89,2.27c-2.08.19-9.83-3.21-13-6.05s-74.31-76-74.31-76a33,33,0,0,1-1.7-7C0,85.43,3.4,80,4.72,78.44S77.9,5.82,77.9,5.82Z"/>
+						  </g>
+					  </g>
+				  </svg>
               </div>
             </div>
               
@@ -104,7 +114,7 @@
         		<div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
 	        		<div class="col-md-4 col-xs-12">
 	        			<div class="profile">
-	        				<img src="{{ asset('images/profile.png') }}" class="center-block" alt="profile-img">
+	        				<img src="http://via.placeholder.com/499x738" class="center-block" alt="profile-img">
 	        			</div>
 	        			<a href="#" target="cv" style="width:100%">
 							<div class="download-resume">
@@ -116,7 +126,7 @@
 	        		</div>
 	        		<div class="col-md-8 col-xs-12">
 						<h2>Moi <span class="colored">Rémi Guillard</span></h2>
-						<h3>developpeur web</h3>
+						<h3>developpeur web / Mobile</h3>
 						<p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elnecess itatibus aperiam voluptas rem nam, dolorem dolores reiciend obcaecati quas iusto beatae ab asperiores explicabo laudan illum, voluptatem corrupti blanditiis fugit enim. Necess itatibu aperiam voluptas rem nam</p>
 						<div class="col-sm-6 info-container">
 							<ul class="info list-unstyled">
