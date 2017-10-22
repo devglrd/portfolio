@@ -414,7 +414,7 @@ h2.has-line-center .heading-bg-text {
     transform: translateY(-50%) rotate(270deg);
 }
 .next-section .next-section-link{
-    padding: 40px;
+    padding: 57px;
     font-size: 20px;
     color: #777;
     text-transform: capitalize;
@@ -696,6 +696,9 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     box-shadow: 0 0 5px rgba(0,0,0,.4);
     padding: 20px 20px 0
 }
+.about-me .next-section a{
+    padding: 36px !important;
+}
 .about-me .profile img{
     width: 100%;
     
@@ -749,7 +752,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 
 .services .left-crown{
     left: inherit;
-    right: -8.2%
+    right: -4.2%
 }
 .services .next-section{
     right: inherit;
@@ -846,7 +849,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 
 .facts .left-crown{
     left: inherit;
-    right: -6.7%
+    right: -2.4%
 }
 .facts .next-section{
     right: inherit;
@@ -1061,6 +1064,10 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 .teams .teams-style-two{
     overflow: hidden;
     padding: 20px 0;
+}
+
+.teams .next-section a {
+    padding: 7px !important;
 }
 
 .teams .testimonial-item{

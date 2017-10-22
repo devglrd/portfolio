@@ -21,8 +21,7 @@
                 <li><a class="js-scroll-trigger" href="#services">Mes services</a></li>
                 <li><a class="js-scroll-trigger" href="#skills" >Competences</a></li>
                 <li><a class="js-scroll-trigger" href="#facts" >Faits réel</a></li>
-                <li><a class="js-scroll-trigger" href="#team" >Mon équipe</a></li>
-                <li><a class="js-scroll-trigger" href="#contact" >Me contacter</a></li>
+                <li><a class="js-scroll-trigger" href="#contact" >Contacter</a></li>
               </ul>
             </div>
           </div>
@@ -425,8 +424,7 @@
 						<input type="text" placeholder="Parlez moi de votre projet">
 						<textarea placeholder="message" cols="30" rows="10"></textarea>
 					</div>
-
-					<div class="submit-btn"><input type="submit" class="more-btn" value="M'envoyez un message !"></div>
+					<div class="submit-btn"><input type="submit" class="more-btn" value="Prendre contact avec moi !"></div>
 				</form>
 			 </div>
 			</div>
