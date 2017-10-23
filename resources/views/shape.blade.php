@@ -21,6 +21,7 @@
                 <li><a class="js-scroll-trigger" href="#services">Mes services</a></li>
                 <li><a class="js-scroll-trigger" href="#skills" >Competences</a></li>
                 <li><a class="js-scroll-trigger" href="#facts" >Faits réel</a></li>
+                <li><a class="js-scroll-trigger" href="#tarifs" >Tarifs</a></li>
                 <li><a class="js-scroll-trigger" href="#contact" >Contacter</a></li>
               </ul>
             </div>
@@ -322,7 +323,7 @@
 				</div>
 			</div>
         </section>
-        <section class="teams" id="team" style="height: 55vh">
+        <section class="teams" id="tarifs" style="height: 55vh">
         	<div class="left-crown">
         		<h2 class="has-square">Mes tarifs</h2>
         	</div>

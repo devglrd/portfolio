@@ -4,6 +4,36 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="author" content="Rémi Guillard">
+        <meta name="title" content="Rémi Guillard - PortFolio">
+        <meta name="description" content="Rémi Guillard, developpeur web et mobile freelance ! Venez me découvrir et prendre contact avec moi !">
+        <meta name="keywords" content="Rémi Guillard, glrd, IIM, Etudiant, Multimédia, Leonard de Vinci, Paris, Portfolio, Freelance, laravel">
+
+        <meta name="robots" content="index, follow">
+
+        <meta property="og:title" content="Rémi Guillard">
+        <meta property="og:url" content="http://www.devglrd.com" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="Rémi Guillard, developpeur web et mobile freelance ! Venez me découvrir et prendre contact avec moi !" />
+        <meta property="og:image" content="" />
+
+        <meta name="dc.language" content="FR">
+        <meta name="dc.creator" content="Rémi Guillard">
+        <meta name="dc.coverage" content="World">
+        <meta name="dc.source" content="http://www.devglrd.com">
+        <meta name="dc.title" content="Rémi Guillard - Portfolio">
+        <meta name="dc.keywords" content="Rémi Guillard, glrd, IIM, Etudiant, Multimédia, Leonard de Vinci, Paris, Portfolio, Freelance, laravel">
+        <meta name="dc.description" content="Rémi Guillard, developpeur web et mobile freelance ! Venez me découvrir et prendre contact avec moi !">
+        <meta name="dc.publisher" content="Rémi Guillard">
+        <meta name="dc.format" content="text/html">
+
+
+        <link rel="canonical" href="http://www.devglrd.com" />
+        <link rel="shortcut icon" type="image/ico" href="#" />
+
 
         <title>{{ isset($title) ? $title . ' | ' : 'Rémi Guillard - PortFolio' }}</title>
 
@@ -12,7 +42,7 @@
         <link rel="stylesheet" href="{{ asset('css/main.css') }} ">
         <link rel="stylesheet" href="{{ asset('css/style.css') }} ">
         
-    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
 
     </head>
 
@@ -36,12 +66,4 @@
     <script src="{{ asset('js/jis.js') }}"></script>
     <script src="{{ asset('js/turbo.js') }}"></script>
     <script src="{{ asset('js/main.js') }}"></script>
-    <script>
-        document = document.getElementById("#tonelementoutuveuxcliquer");
-        var a = 0;
-        document.addEventListener("click").function(){
-            a = ++;
-            console.log(a)
-        }
-    </script>
 </html>
