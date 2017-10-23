@@ -33,7 +33,7 @@
               <div class="col-md-7 col-sm-12">
                 <h1 class="has-line-center">Rémi Guillard</h1>
                 <h3 class="mb-20">Je suis <span class="element"></span></h3>
-				  <p>J'ai cacher des informations sur moi un peu <strong>partout</strong> sur le site. A vous de les <strong>decouvrires</strong>.</p>
+				  <p>J'ai caché des informations à mon <strong>sujet</strong> un peu partout sur le site. A vous de les <strong>découvrir</strong>.</p>
 				  <div class="next-section-first">
 					  <a class="js-scroll-trigger next-section-link" href="#about"><i class="fa fa-long-arrow-left"></i></a>
 				  </div>
@@ -75,8 +75,8 @@
 	        			
 	        		</div>
 	        		<div class="col-md-8 col-xs-12">
-						<h2>Moi <span class="colored">Rémi Guillard</span></h2>
-						<h3>developpeur web / Mobile</h3>
+						<h2><span class="colored">Rémi Guillard</span></h2>
+						<h3>Developpeur Web / Mobile</h3>
 						<p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elnecess itatibus aperiam voluptas rem nam, dolorem dolores reiciend obcaecati quas iusto beatae ab asperiores explicabo laudan illum, voluptatem corrupti blanditiis fugit enim. Necess itatibu aperiam voluptas rem nam</p>
 						<div class="col-sm-6 info-container">
 							<ul class="info list-unstyled">
@@ -168,14 +168,14 @@
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
 	                   <div class="icon-box"><i class="material-icons">storage</i></div>
-	                     <h3><a href="#">Gestion de base de donnée</a></h3>
+	                     <h3><a href="#">Gestion de base de données</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
 	             </div>
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
 	                   <div class="icon-box"><i class="material-icons">supervisor_account</i></div>
-	                     <h3><a href="#">Accompagnement dans le devellopement de votre projet</a></h3>
+	                     <h3><a href="#">Accompagnement dans le développement de vos projets</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
 	             </div>
@@ -191,7 +191,6 @@
         	</div>
         	<div class="container">
         		<div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
-	        		
 	        		<div class="col-md-6 col-xs-12">
 						<h3 class="has-line">Hard Skills</h3>
 						<div class="mb-50"></div>
@@ -204,7 +203,6 @@
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
 	                	</div>
-
 		                <div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">PHP</li>
@@ -214,7 +212,6 @@
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
 		                </div>
-
 		                <div class="skill" data-toggle="tooltip" data-placement="bottom" title="Je suis aussi un très grand chanteur a mes heures perdu, sous la douche.">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Swift (IOS) </li>
@@ -234,9 +231,7 @@
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
 		                </div>
-		                
 					</div>
-
 					<div class="col-md-6 col-xs-12">
 						<h3 class="has-line">Soft skills</h3>
 						<div class="mb-50"></div>
@@ -250,6 +245,8 @@
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
 		                </div>
+		                <div class="skill">
+	        				<div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Design Web</li>
 		                      <li class="strength">47%</li>
@@ -257,9 +254,7 @@
 		                   <div class="skill-progress">
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
-	                	</div>
-
-
+		                </div>
 		                <div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Commercial</li>
@@ -269,9 +264,7 @@
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
 		                </div>
-		                
 					</div>
-
         		</div>
         	</div>
         </section>
@@ -291,7 +284,7 @@
 					          <div class="count-outer">
 					              <span class="count-text counter">143</span>
 					          </div>
-					          <div class="counter-title">année d'experience</div>
+					          <div class="counter-title">années d'expérience</div>
 					      </div>
 					  </div>
 					</div>
@@ -302,7 +295,7 @@
 					          <div class="count-outer">
 					              <span class="count-text counter">532</span>
 					          </div>
-					          <div class="counter-title">lagauage de programation matrisée</div>
+					          <div class="counter-title">langage de programmation maitrisés</div>
 					      </div>
 					  </div>
 					</div>
@@ -313,7 +306,7 @@
 					          <div class="count-outer">
 					              <span class="count-text counter">9</span> mds
 					          </div>
-					          <div class="counter-title">ligne de code écrite</div>
+					          <div class="counter-title">lignes de code écrites</div>
 					      </div>
 					  </div>
 					</div>
@@ -422,7 +415,7 @@
 					</div>
 					<div class="col-sm-12">
 						<input type="text" placeholder="Parlez moi de votre projet">
-						<textarea placeholder="message" cols="30" rows="10"></textarea>
+						<textarea placeholder="Message" cols="30" rows="10"></textarea>
 					</div>
 					<div class="submit-btn"><input type="submit" class="more-btn" value="Prendre contact avec moi !"></div>
 				</form>
