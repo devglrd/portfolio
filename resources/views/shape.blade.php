@@ -236,7 +236,6 @@
 						<h3 class="has-line">Soft skills</h3>
 						<div class="mb-50"></div>
 	        			<div class="skill">
-	        				<div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Force de proposition</li>
 		                      <li class="strength">86%</li>
@@ -246,7 +245,6 @@
 		                   </div>
 		                </div>
 		                <div class="skill">
-	        				<div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Design Web</li>
 		                      <li class="strength">47%</li>
