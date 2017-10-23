@@ -693,7 +693,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 }
 .about-me .profile{
     margin-bottom: 20px;
-    box-shadow: 0 0 5px rgba(0,0,0,.4);
+    box-shadow: none !important;
     padding: 20px 20px 0
 }
 .about-me .next-section a{
@@ -757,6 +757,9 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 .services .next-section{
     right: inherit;
 }
+.services .next-section .next-section-link{
+    padding: 22px !important;
+}
 .service-box-one {
     position: relative;
     padding: 40px 20px;
@@ -816,6 +819,10 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     text-transform: uppercase;
 }
 
+.skills .left-crown {
+    left: -112px !important;
+}
+
 .skill {
     position: relative;
     margin-bottom: 30px
@@ -853,6 +860,9 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
 }
 .facts .next-section{
     right: inherit;
+}
+.facts .next-section .next-section-link{
+    padding: 53px !important;
 }
 .fact-box{
     position:relative;
@@ -1058,7 +1068,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     right: inherit;
 }
 .teams .left-crown{
-    left: -10%;
+    margin-left: 45px !important;
 }
 
 .teams .teams-style-two{
@@ -1202,7 +1212,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     text-align: center;
 }
 .contact .left-crown{
-    left: -8.7%
+    left: -3.9%
 }
 .contact-form form {
     display: inline-block;

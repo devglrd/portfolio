@@ -138,7 +138,7 @@
 	             <div class="service-one-container">
 	                <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                   <div class="inner-box">
-	                      <div class="icon-box"><span class="flaticon-shield"></span></div>
+	                      <div class="icon-box"><i class="material-icons">code</i></div>
 	                        <h3><a href="#">Développement Web</a></h3>
 	                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus</div>
 	                    </div>
@@ -146,35 +146,35 @@
 	             </div>
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
-	                   <div class="icon-box"><span class="flaticon-support"></span></div>
+	                   <div class="icon-box"><i class="material-icons">build</i></div>
 	                     <h3><a href="#">Support Technique</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
 	             </div>
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
-	                   <div class="icon-box"><span class="flaticon-avatar"></span></div>
+	                   <div class="icon-box"><i class="material-icons">assignment</i></div>
 	                     <h3><a href="#">Audit SEO</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
 	             </div>
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
-	                   <div class="icon-box"><span class="flaticon-business-2"></span></div>
-	                     <h3><a href="#">Optimisation Site Web</a></h3>
+	                   <div class="icon-box"><i class="material-icons">search</i></div>
+	                     <h3><a href="#">Code Review</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
 	             </div>
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
-	                   <div class="icon-box"><span class="flaticon-stats"></span></div>
+	                   <div class="icon-box"><i class="material-icons">storage</i></div>
 	                     <h3><a href="#">Gestion de base de donnée</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
 	             </div>
 	             <div class="service-box-one col-md-4 col-sm-6 col-xs-12">
 	                <div class="inner-box">
-	                   <div class="icon-box"><span class="flaticon-briefcase"></span></div>
+	                   <div class="icon-box"><i class="material-icons">supervisor_account</i></div>
 	                     <h3><a href="#">Accompagnement dans le devellopement de votre projet</a></h3>
 	                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate ducimus impedit, nam odit possimus temporibus.</div>
 	                 </div>
@@ -215,20 +215,20 @@
 		                   </div>
 		                </div>
 
-		                <div class="skill">
+		                <div class="skill" data-toggle="tooltip" data-placement="bottom" title="Je suis aussi un très grand chanteur a mes heures perdu, sous la douche.">
 		                   <ul class="list-unstyled list-inline clearfix">
-		                      <li class="title">JavaScript</li>
-		                      <li class="strength">65%</li>
+		                      <li class="title">Swift (IOS) </li>
+		                      <li class="strength">84%</li>
 		                   </ul>
 		                   <div class="skill-progress">
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
 		                   </div>
 		                </div>
 
-		                <div class="skill" data-toggle="tooltip" data-placement="bottom" title="Je suis aussi un très grand chanteur a mes heures perdu, sous la douche.">
+		                <div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
-		                      <li class="title">Swift (IOS) </li>
-		                      <li class="strength">84%</li>
+		                      <li class="title">JavaScript</li>
+		                      <li class="strength">65%</li>
 		                   </ul>
 		                   <div class="skill-progress">
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
@@ -241,6 +241,15 @@
 						<h3 class="has-line">Soft skills</h3>
 						<div class="mb-50"></div>
 	        			<div class="skill">
+	        				<div class="skill">
+		                   <ul class="list-unstyled list-inline clearfix">
+		                      <li class="title">Force de proposition</li>
+		                      <li class="strength">86%</li>
+		                   </ul>
+		                   <div class="skill-progress">
+		                      <div class="progress-bar has-gradient" style="width: 0"></div>
+		                   </div>
+		                </div>
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Design Web</li>
 		                      <li class="strength">47%</li>
@@ -250,20 +259,11 @@
 		                   </div>
 	                	</div>
 
+
 		                <div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">Commercial</li>
 		                      <li class="strength">37%</li>
-		                   </ul>
-		                   <div class="skill-progress">
-		                      <div class="progress-bar has-gradient" style="width: 0"></div>
-		                   </div>
-		                </div>
-
-		                <div class="skill">
-		                   <ul class="list-unstyled list-inline clearfix">
-		                      <li class="title">Force de proposition</li>
-		                      <li class="strength">86%</li>
 		                   </ul>
 		                   <div class="skill-progress">
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
@@ -317,7 +317,7 @@
 					      </div>
 					  </div>
 					</div>
-					<div class="fact-box count-box col-lg-3 col-md-3 col-sm-6 col-xs-12 fact-box-sm" data-toggle="tooltip" data-placement="right" title="D'accord c'est faux. Seulement 734..">
+					<div class="fact-box count-box col-lg-3 col-md-3 col-sm-6 col-xs-12 fact-box-sm" data-toggle="tooltip" data-placement="bottom" title="">
 					  <div class="inner">
 					   <div class="icon-box"><span class="flaticon-medal"></span></div>
 					      <div class="content">
@@ -331,9 +331,9 @@
 				</div>
 			</div>
         </section>
-        <section class="teams" id="team">
+        <section class="teams" id="team" style="height: 55vh">
         	<div class="left-crown">
-        		<h2 class="has-square">Mon équipe</h2>
+        		<h2 class="has-square">Mes tarifs</h2>
         	</div>
         	<div class="next-section">
         		<a href="#interest" class="next-section-link js-scroll-trigger"><i class="fa fa-long-arrow-left"></i> Un projet pour moi</a>
@@ -343,7 +343,7 @@
                 <div class="testimonials-style-two" id="testimonial-slider">
                    <div class="item col-md-4 col-sm-6 col-xs-12">
                       <div class="testimonial-item has-shadow">
-                         <div class="inner-box">
+                         <div class="inner-box" style="display: none;">
                             <figure class="author-thumb img-circle"><img class="img-circle" src="" alt="image"></figure>
                             <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa cupiditate dolorem est eum facilis </div>
                             <div class="info">Clément Jenny - <span class="designation">Developpeur Front-End</span></div>
@@ -353,7 +353,7 @@
                    </div>
                    <div class="item item-box-xs col-sm-6 col-xs-12">
                       <div class="testimonial-item has-shadow">
-                         <div class="inner-box">
+                         <div class="inner-box" style="display: none;">
                             <figure class="author-thumb img-circle"><img class="img-circle" src="" alt="image"></figure>
                             <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus delectus eum molestias, necessitatibus </div>
                             <div class="info">Jean Saunie - <span class="designation">Developpeur Back-End</span></div>
