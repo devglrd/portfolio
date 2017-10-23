@@ -1,3 +1,4 @@
+@extends('.layouts.main')
 <nav>
     <div class="navicon">
         <span></span>
