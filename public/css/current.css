@@ -385,6 +385,9 @@ h2.has-line-center .heading-bg-text {
 .left-crown h2{
     padding-right: 50px
 }
+.has-square{
+    text-transform: uppercase !important;
+}
 .left-crown .has-square:after{
     content: '';
     position: absolute;
