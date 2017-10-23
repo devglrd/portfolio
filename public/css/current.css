@@ -386,7 +386,7 @@ h2.has-line-center .heading-bg-text {
     padding-right: 50px
 }
 .has-square{
-    text-transform: uppercase !important;
+    text-transform: initial; !important;
 }
 .left-crown .has-square:after{
     content: '';

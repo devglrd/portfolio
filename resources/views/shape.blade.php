@@ -184,7 +184,7 @@
         </section>
         <section class="skills" id="skills">
         	<div class="left-crown">
-        		<h2 class="has-square"> Mes Competences</h2>
+        		<h2 class="has-square"> Mes competences</h2>
         	</div>
         	<div class="next-section">
         		<a href="#facts" class="next-section-link js-scroll-trigger"><i class="fa fa-long-arrow-left"></i> Fait réels</a>
