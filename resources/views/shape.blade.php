@@ -67,7 +67,7 @@
 	        			<div class="profile">
 	        				<img src="http://via.placeholder.com/499x738" class="center-block" alt="profile-img">
 	        			</div>
-	        			<a href="#" target="cv" style="width:100%">
+	        			<a href="{{asset('images/cv_remi.compressed.pdf')}}" target="_blank" style="width:100%">
 							<div class="download-resume">
 								<i class="fa fa-cloud-download" aria-hidden="true"></i>
 								<span class="text-download">Mon CV</span>
@@ -110,16 +110,10 @@
 						</div>
 						<ul class="list-unstyled social-links">
 							<li class="li-social-links">
-								<a href="#" data-tootik="Github"><i class="fa fa-github" aria-hidden="true"></i></a>
+								<a href="https://github.com/glrd78" data-tootik="Github"><i class="fa fa-github" aria-hidden="true"></i></a>
 							</li>
 							<li class="li-social-links">
-								<a href="#" data-tootik="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-							</li>
-							<li class="li-social-links">
-								<a href="#" data-tootik="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-							</li>
-							<li class="li-social-links">
-								<a href="#" data-tootik="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+								<a href="www.linkedin.com/in/devglrd" data-tootik="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 							</li>
 						</ul>
 
