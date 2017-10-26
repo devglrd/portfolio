@@ -10,7 +10,7 @@
         <meta name="author" content="Rémi Guillard">
         <meta name="title" content="Rémi Guillard - PortFolio">
         <meta name="description" content="Rémi Guillard, developpeur web et mobile freelance ! Venez me découvrir et prendre contact avec moi !">
-        <meta name="keywords" content="Rémi Guillard, glrd, IIM, Etudiant, Multimédia, Leonard de Vinci, Paris, Portfolio, Freelance, laravel">
+        <meta name="keywords" content="Rémi Guillard, glrd, IIM, Developpeur, Multimédia, Leonard de Vinci, Paris, Web, Freelance, laravel, Mobile">
 
         <meta name="robots" content="index, follow">
 
