@@ -29,7 +29,7 @@
         </nav>
         <div id="home" class="header-2 demo-2">
           <div class="container">
-            
+
             <div class="header-2-content" style="position: relative">
               <div class="col-md-7 col-sm-12">
                 <h1 class="has-line-center">Rémi Guillard</h1>
@@ -50,7 +50,7 @@
 				  </svg>
               </div>
             </div>
-              
+
           </div>
         </div>
         </div>
@@ -73,7 +73,7 @@
 								<span class="text-download">Mon CV</span>
 							</div>
 						</a>
-	        			
+
 	        		</div>
 	        		<div class="col-md-8 col-xs-12">
 						<h2><span class="colored">Rémi Guillard</span></h2>
@@ -192,7 +192,7 @@
 	        			<div class="skill">
 		                   <ul class="list-unstyled list-inline clearfix">
 		                      <li class="title">HTML / CSS</li>
-		                      <li class="strength">99%</li>
+		                      <li class="strength">98%</li>
 		                   </ul>
 		                   <div class="skill-progress">
 		                      <div class="progress-bar has-gradient" style="width: 0"></div>
@@ -349,7 +349,7 @@
                    </div>
                 </div>
              </div>
-          </div>               
+          </div>
         </section>
 		  <section class="features gray-bg" id="features">
 			  <div class="left-crown">
@@ -434,4 +434,3 @@
       </div>
 
   @endsection
-
