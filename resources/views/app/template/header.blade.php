@@ -38,14 +38,16 @@
     <title>{{ isset($title) ? $title . ' | ' : 'Rémi Guillard - Developpeur Web et Mobile' }}</title>
 
     <!-- Bootstrap Stylesheet -->
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/flaticon.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/app/bootstrap.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/app/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/app/flaticon.css') }}">
     <!-- Google font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700" rel="stylesheet">
     <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="{{ asset('css/current.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/color-1.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/app/current.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/app/color-1.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/app/demo.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/app/style-ama.css') }}" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Google Font -->

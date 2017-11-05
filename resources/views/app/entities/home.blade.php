@@ -5,7 +5,11 @@
         <div class="container">
             <div class="header-2-content" style="position: relative">
                 <div class="col-md-7 col-sm-12">
-                    <h1 class="has-line-center">Rémi Guillard</h1>
+                    <h1 class="has-line-center ">
+                        <span class="">
+                            Rémi Guillard
+                        </span>
+                    </h1>
                     <h3 class="mb-20">Je suis <span class="element"></span></h3>
                     <p>J'ai caché des informations à mon <strong>sujet</strong> un peu partout sur le site. A vous de les <strong>découvrir</strong>.</p>
                     <div class="next-section-first">

@@ -14,15 +14,19 @@
         </div>
     </div>
 
-    <script src="{{ asset('js/jquery.min.js') }}"></script>
-    <script src="{{ asset('js/bootstrap.js') }}"></script>
+    <script src="{{ asset('js/app/jquery.min.js') }}"></script>
+    <script src="{{ asset('js/app/bootstrap.js') }}"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="{{ asset('js/jquery.counterup.min.js') }}"></script>
-<!-- <script src="{{ asset('js/slick.js') }}"></script> -->
-    <script src="{{ asset('js/typed.js') }}"></script>
-    <script src="{{ asset('js/jquery.easing.min.js') }}"></script>
-    <script src="{{ asset('js/script.js') }}"></script>
-    <script src="{{ asset('js/main.js')}}" charset="utf-8"></script>
+    <script src="{{ asset('js/app/jquery.counterup.min.js') }}"></script>
+<!-- <script src="{{ asset('js/app/slick.js') }}"></script> -->
+    <script src="{{ asset('js/app/typed.js') }}"></script>
+    <script src="{{ asset('js/app/jquery.easing.min.js') }}"></script>
+    <script src="{{ asset('js/app/script.js') }}"></script>
+    <script src="{{ asset('js/app/main.js')}}" charset="utf-8"></script>
+    <script src="{{ asset('js/app/charming.min.js') }}"></script>
+    <script src="{{ asset('js/app/anime.min.js') }}"></script>
+    <script src="{{ asset('js/app/demo.js') }}"></script>
+    <script src="{{ asset('js/app/demo-ama.js') }}"></script>
     <script>
         setTimeout(function(){
             $("#loader").addClass('hide');
