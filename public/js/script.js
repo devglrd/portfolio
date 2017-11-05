@@ -1,11 +1,13 @@
 /*global $, window, document, setTimeout, WOW, jQuery*/
+/* FIN LOADER */
 $(document).ready(function () {
 
     'use strict';
     // Defining used variables
     var skill            = $('.skill');
 
-    
+
+
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').on("click", function() {
         if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
@@ -71,7 +73,7 @@ $(document).ready(function () {
         time: 1000
     });
 
-    
+
     //initialize Slick slider (testimonial slider)
     $("#testimonial-slider").slick({
         dots: false,
@@ -89,21 +91,19 @@ $(document).ready(function () {
                 settings: {
                     arrows: true,
                     slidesToShow: 1
-                }  
+                }
             }
         ]
     });
-
-
     //portfolio filter
     $(".filter-button").click(function () {
         var value = $(this).attr('data-filter');
-        
+
         if (value === "all") {
             $('.filter').show('1000');
         } else {
             $(".filter").not('.' + value).hide('3000');
-            $('.filter').filter('.' + value).show('3000');  
+            $('.filter').filter('.' + value).show('3000');
         }
     });
 
