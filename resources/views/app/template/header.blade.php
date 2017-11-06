@@ -46,8 +46,8 @@
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="{{ asset('css/app/current.css') }}">
     <link rel="stylesheet" href="{{ asset('css/app/color-1.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/app/demo.css') }}" />
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/app/style-ama.css') }}" />
+    {{--<link rel="stylesheet" type="text/css" href="{{ asset('css/app/demo.css') }}" />--}}
+    {{--<link rel="stylesheet" type="text/css" href="{{ asset('css/app/style-ama.css') }}" />--}}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Google Font -->
