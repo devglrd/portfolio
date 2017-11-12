@@ -794,7 +794,7 @@ nav.main-navigation .navbar-toggle > span.icon-bar {
     position: absolute;
     top: 0;
     left: 0;
-    background: url("../images/header-images/demo-2.png") no-repeat;
+    background: url("../../images/header-images/demo-2.png") no-repeat;
     background-size: cover;
 }
 
