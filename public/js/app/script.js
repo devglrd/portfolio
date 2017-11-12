@@ -75,7 +75,7 @@ $(document).ready(function () {
 
 
     //initialize Slick slider (testimonial slider)
-    $("#testimonial-slider").slick({
+    /*$("#testimonial-slider").slick({
         dots: false,
         infinite: true,
         autoplay: false,
@@ -94,7 +94,7 @@ $(document).ready(function () {
                 }
             }
         ]
-    });
+    });*/
     //portfolio filter
     $(".filter-button").click(function () {
         var value = $(this).attr('data-filter');
