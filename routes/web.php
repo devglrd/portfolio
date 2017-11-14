@@ -13,3 +13,5 @@
 
 
 Route::get('/', ['uses' => 'App\StaticsController@home']);
+
+Route::get('/gif', ['uses' => 'Admin\StaticsController@returnGif']);
