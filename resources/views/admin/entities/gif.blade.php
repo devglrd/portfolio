@@ -16,7 +16,7 @@
                         <img src="{{ $unique }}" alt="">
                     </div>
                     <div class="panel-footer">
-                        Partagé le gif : <span>{{ $unique }}</span>
+                        Partagé le gif : <a href="{{ $unique }}" target="_blank"><span>{{ $unique }}</span></a>
                     </div>
                 </div>
             </div>
