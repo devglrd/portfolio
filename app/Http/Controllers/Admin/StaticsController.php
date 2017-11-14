@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Gif;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
@@ -19,8 +20,16 @@ class StaticsController extends Controller
 //        $gif = $json->data->images->original->url;
 
 
+        Gif::create([
+            "img_url" => $u,
+            'created_at' => now()
+        ]);
+
+        $allGif = Gif::orderBy('id', 'desc')->get();
+
         return view('admin.entities.gif')->with([
-            'unique' => $u
+            'unique' => $u,
+            'allGif' => $allGif
         ]);
     }
 }

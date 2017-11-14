@@ -14,4 +14,6 @@
 
 Route::get('/', ['uses' => 'App\StaticsController@home']);
 
-Route::get('/gif', ['uses' => 'Admin\StaticsController@returnGif']);
+Route::get('/gif', ['uses' => 'Admin\StaticsController@returnGif'])->middleware('guest');
+
+Route::auth();

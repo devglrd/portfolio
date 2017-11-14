@@ -21,6 +21,20 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+            @foreach($allGif as $gif)
+            <div class="col-md-5">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <img src="{{ $gif->img_url }}" alt="">
+                    </div>
+                    <div class="panel-footer">
+                        Partagé le gif : <a href="{{ $gif->img_url }}" target="_blank"><span>{{ $gif->img_url }}</span></a>
+                    </div>
+                </div>
+            </div>
+            @endforeach
+        </div>
     </div>
 
 @endsection

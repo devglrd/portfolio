@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="{{ asset('css/app/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('css/app/font-awesome.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/app/flaticon.css') }}">
+
+    <script src="{{ asset('js/app/jquery.min.js') }}"></script>
+
     <style>
         img{
             width: 100%;
