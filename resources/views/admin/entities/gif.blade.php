@@ -44,6 +44,9 @@
             @endforeach
             @endif
         </div>
+        <div class="d-flex justify-content-center">
+            {{ $allGif->links() }}
+        </div>
     </div>
 
 @endsection

@@ -25,7 +25,7 @@ class StaticsController extends Controller
             'created_at' => now()
         ]);
 
-        $allGif = Gif::orderBy('id', 'desc')->get();
+        $allGif = Gif::orderBy('id', 'desc')->Paginate(15);
 
         return view('admin.entities.gif')->with([
             'unique' => $u,
