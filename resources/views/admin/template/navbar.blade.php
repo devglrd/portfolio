@@ -13,5 +13,8 @@
                     </li>
                 </ul>
             </div>
+            <div class="d-flex justify-content-center">
+                <button class="ml-4 btn btn-success">{{ $allGif->count() }} gif</button>
+            </div>
         </div>
     </nav>
