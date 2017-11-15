@@ -21,7 +21,13 @@
                 </div>
             </div>
         </div>
+
         <div class="row">
+            <h3 class="text-center jumbotron">Gifs déjà généré</h3>
+        </div>
+
+        <div class="row">
+            @if($allGif->count() > 1 )
             @foreach($allGif as $gif)
             <div class="col-md-5">
                 <div class="panel panel-default">
@@ -34,6 +40,7 @@
                 </div>
             </div>
             @endforeach
+            @endif
         </div>
     </div>
 
