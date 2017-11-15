@@ -27,9 +27,12 @@ class StaticsController extends Controller
 
         $allGif = Gif::orderBy('id', 'desc')->Paginate(15);
 
+        $count = Gif::all()->count();
+
         return view('admin.entities.gif')->with([
             'unique' => $u,
-            'allGif' => $allGif
+            'allGif' => $allGif,
+            'count'  => $count
         ]);
     }
 }
