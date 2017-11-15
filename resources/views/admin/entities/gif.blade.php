@@ -32,7 +32,7 @@
             @if($allGif->count() > 1 )
             @foreach($allGif as $gif)
             <div class="col">
-                <div class="card ">
+                <div class="card m-3">
                     <div class="card-body">
                         <img src="{{ $gif->img_url }}" alt="">
                     </div>
